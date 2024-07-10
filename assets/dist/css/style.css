@@ -5,17 +5,17 @@ display:none;
 
 .btn-primary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #800050;
-    --bs-btn-border-color: #800050;
+    --bs-btn-bg: #800050 !important;
+    --bs-btn-border-color: #800050 !important;
     --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #EFE2CD;
-    --bs-btn-hover-border-color: #EFE2CD;
+    --bs-btn-hover-bg: #EFE2CD !important;
+    --bs-btn-hover-border-color: #EFE2CD !important;
     --bs-btn-focus-shadow-rgb: 49, 132, 253;
     --bs-btn-active-color: #fff;
     --bs-btn-active-bg: #EFE2CD;
-    --bs-btn-active-border-color: #800050;
+    --bs-btn-active-border-color: #800050 !important;
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #fff;
-    --bs-btn-disabled-bg: #800050;
-    --bs-btn-disabled-border-color: #800050;
+    --bs-btn-disabled-bg: #800050 !important;
+    --bs-btn-disabled-border-color: #800050 !important;
 }
