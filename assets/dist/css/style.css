@@ -3,7 +3,9 @@ display:none;
 }
 
 .coglogo {
- height: 250px;
+    height: 250px !important;
+    max-width: 100% !important;
+}
 }
 
 .btn-primary {
