@@ -19,3 +19,9 @@ display:none;
     --bs-btn-disabled-bg: #800050 !important;
     --bs-btn-disabled-border-color: #800050 !important;
 }
+h1, h2, h3, h4, h5, h6 {
+    color: #800050 !important;
+    font-family: helvetica, sans-serif !important;
+    font-weight: bold !important;
+    margin: 0 0 5px !important;
+}
