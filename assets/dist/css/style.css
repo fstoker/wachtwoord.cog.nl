@@ -25,3 +25,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold !important;
     margin: 0 0 5px !important;
 }
+
+.card-header { 
+    background-color: #EFE2CD !important;
+}
