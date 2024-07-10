@@ -2,6 +2,9 @@ footer {
 display:none;  
 }
 
+.coglogo {
+ height: 250px;
+}
 
 .btn-primary {
     --bs-btn-color: #fff;
